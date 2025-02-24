@@ -97,6 +97,11 @@ ul li img:hover {
   color: #FFF;
 }
 
+footer p {
+  color: #FFF;
+  margin-right: auto;
+  margin-left: auto;
+
 @media screen and (max-width: 640px) {
   ul {
     grid-template-columns: 1fr 1fr;
